@@ -13,7 +13,7 @@
 - AndroidJava, Objective-C, PHP, ASP.NET, C♯, HTML（雑魚）, JavaScript(雑魚), CSS（雑魚）
 - SVN,Git(雑魚)
 
-詳しくは[経歴](carrer.md)
+詳しくは[経歴](carrier.md)
 
 ### 業務外
 - Go言語（paizaにて[Aランク](https://paiza.jp/challenges/share/xatgOQ8sKqpgUvhylQ8_a1PWYhHWcybTKSvvxcnRDEE?source=social)）

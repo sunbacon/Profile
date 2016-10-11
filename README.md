@@ -1,1 +1,2 @@
-# Profile
+- [基本情報](./personality.md)
+- [経歴](./carrier.md)
